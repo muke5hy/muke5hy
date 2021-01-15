@@ -64,6 +64,13 @@ API) and angular 8 material with sass and less styling**
     height="50"
   />
   &nbsp;
+  <img
+    src="https://raw.githubusercontent.com/muke5hy/devicon/master/icons/python/python-original-wordmark.svg"
+    alt="Python"
+    width="50"
+    height="50"
+  />
+  &nbsp;
   
 </p>
 
