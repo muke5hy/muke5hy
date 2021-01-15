@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukesh Yadav</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <p align="left">
   <img
@@ -42,166 +42,29 @@ API) and angular 8 material with sass and less styling**
 </p>
 
 <p align="center">
+    <img
+    src="https://raw.githubusercontent.com/muke5hy/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+    alt="aws"
+    width="50"
+    height="50"
+  />
+    
+  &nbsp;
   <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"
-    alt="django"
+    src="https://raw.githubusercontent.com/muke5hy/devicon/master/icons/rust/rust-plain.svg"
+    alt="Rust Lang"
     width="50"
     height="50"
   />
   &nbsp;
   <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
-    alt="angularjs"
+    src="https://raw.githubusercontent.com/muke5hy/devicon/master/icons/go/go-plain.svg"
+    alt="GoLang"
     width="50"
     height="50"
   />
   &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"
-    alt="bootstrap"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-    alt="typescript"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
-    alt="python"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-    alt="react"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
-    alt="sass"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
-    alt="android"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
-    alt="docker"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg"
-    alt="electron"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-    alt="firebase"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-    alt="gcp"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="git"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
-    alt="java"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-    alt="javascript"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
-    alt="linux"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-    alt="materialize"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-    alt="mongodb"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-    alt="opencv"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-    alt="postgresql"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-    alt="tensorflow"
-    width="50"
-    height="50"
-  />
+  
 </p>
 
 <p align="center">
