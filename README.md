@@ -15,8 +15,7 @@ projects related to django rest api and angular.
 - 🤝 I’m looking to collaborate on new technology. 
 - 💬 Ask me about **I'm fullstack deveplor with python(Django REST
 API) and angular 8 material with sass and less styling** 
-- 📫 How to reach me
-**mak.gnu@gmail.com** - ⚡ Fun fact **Pepsi**
+- 📫 How to reach me **mak.gnu@gmail.com** - ⚡ Fun fact **Pepsi**
 
 <p align="center">
   <a href="https://twitter.com/muke5hy"
