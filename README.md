@@ -10,11 +10,11 @@
 
 I am recent post graduate looking for opportunities and collabaration in
 projects related to django rest api and angular. 
-- 🔭 I’m currently working on angular Rxjs and angular styling with sass and less. 
-- 🌱 I’m currently learning Docker wrapper on django/angular. 
+- 🔭 I’m currently working on Python Django Typescript NextJS and GoLang.
+- 🌱 I’m currently learning Rust.
 - 🤝 I’m looking to collaborate on new technology. 
 - 💬 Ask me about **I'm fullstack deveplor with python(Django REST
-API) and angular 8 material with sass and less styling** 
+API) and NextJs which is React Framework** 
 - 📫 How to reach me **mak.gnu@gmail.com** - ⚡ Fun fact **Pepsi**
 
 <p align="center">
