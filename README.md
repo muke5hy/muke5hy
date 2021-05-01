@@ -40,40 +40,6 @@ API) and NextJs which is React Framework**
   /></a>
 </p>
 
-<p align="center">
-    
-    
-  &nbsp;
-  <img
-    src="https://raw.githubusercontent.com/muke5hy/devicon/master/icons/rust/rust-plain.svg"
-    alt="Rust Lang"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://raw.githubusercontent.com/muke5hy/devicon/master/icons/go/go-plain.svg"
-    alt="GoLang"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://raw.githubusercontent.com/muke5hy/devicon/master/icons/python/python-original.svg"
-    alt="Python"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  <img
-    src="https://raw.githubusercontent.com/muke5hy/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
-    alt="aws"
-    width="50"
-    height="50"
-  />
-  &nbsp;
-  
-</p>
 
 <p align="center">
   <img
