@@ -11,7 +11,7 @@
 I am recent post graduate looking for opportunities and collabaration in
 projects related to django rest api and angular. 
 - 🔭 I’m currently working on Python Django Typescript NextJS and GoLang.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust and GoLang
 - 🤝 I’m looking to collaborate on new technology. 
 - 💬 Ask me about **I'm fullstack deveplor with python(Django REST
 API) and NextJs which is React Framework** 
