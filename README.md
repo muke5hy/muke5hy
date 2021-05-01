@@ -80,7 +80,7 @@ API) and NextJs which is React Framework**
     alt="muke5hy"
   />
   <br /><br />
-  <a href="https://twitter.com/aditya__bhalsod" target="blank"
+  <a href="https://twitter.com/muke5hy" target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
@@ -88,22 +88,12 @@ API) and NextJs which is React Framework**
       height="30"
       width="30" /></a
   ><a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/muke5hy/"
+    href="https://www.linkedin.com/in/muke5hy/"
     target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
       alt="https://www.linkedin.com/in/muke5hy/"
-      height="30"
-      width="30"
-  /></a>
-  <a
-    href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvonmzyifu6nyhdrcixjlva"
-    target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"
-      alt="https://www.youtube.com/channel/ucvonmzyifu6nyhdrcixjlva"
       height="30"
       width="30"
   /></a>
