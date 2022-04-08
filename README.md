@@ -14,7 +14,7 @@
 - 🤝 I’m looking to collaborate on new technology. 
 - 💬 Ask me about **I'm fullstack deveplor with python(Django REST
 API) and NextJs which is React Framework** 
-- 📫 How to reach me **mak.gnu@gmail.com** - ⚡ Fun fact **Pepsi**
+- 📫 You can reach me at **mak.gnu[at]gmail.com** 
 
 <p align="center">
   <a href="https://twitter.com/muke5hy"
